@@ -1,0 +1,9 @@
+id,customer_name,email,country,signup_date,revenue,status,source
+1,John Doe,john@example.com,USA,2023-01-15,1200.50,Active,Website
+2,Jane Smith,jane@example.com,Canada,2023-02-20,800.00,Active,Referral
+3,,invalid@example.com,UK,2023-03-01,300.00,Pending,Website
+4,Mark Lee,mark@company.org,Australia,2023-04-10,450.00,Active,Partner
+5,Alice Brown,alice@domain.net,India,2023-05-05,1000.00,Inactive,Website
+6,Sam Green,sam@sample,USA,2023-06-01,600.00,Active,Website
+7,Lucy White,lucy@example.com,USA,2023-07-07,900.00,Active,Referral
+8,Tom Black,tom@example.com,UK,2023-08-12,150.00,Pending,Partner
